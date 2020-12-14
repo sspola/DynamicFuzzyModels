@@ -2,23 +2,24 @@
 
 This repository contains a collection of dynamic fuzzy models (DFMs) and related analysis scripts.
 The aim of this repository is to showcase and share published DFMs, in order to ensure reproducibility of results and facilitate model improvements.
-If you wish to have more information about DFMs, their definition, and simulation, please check:
-Nobile et al. (2020). Fuzzy modeling and global optimization to predict novel therapeutic targets in cancer cells. Bioinformatics, 36(7), 2181-2188.
+If you wish to have more information about DFMs, their definition, and simulation, please check:  
+Nobile et al. (2020). Fuzzy modeling and global optimization to predict novel therapeutic targets in cancer cells.  
+Bioinformatics, 36(7), 2181-2188.
 
 More information about the models and analyses contained in this repository can be found in the publications listed below.
 If you find these models useful for your research, please cite our work as follows.
 
 ## Models
 - Programmed cell death
-	- Marco S Nobile, Giuseppina Votta, Roberta Palorini, Simone Spolaor, Humberto De Vitto, Paolo Cazzaniga, Francesca Ricciardiello, Giancarlo Mauri, Lilia Alberghina, Ferdinando Chiaradonna, Daniela Besozzi.
-	Fuzzy modeling and global optimization to predict novel therapeutic targets in cancer cells.
+	- Marco S Nobile, Giuseppina Votta, Roberta Palorini, Simone Spolaor, Humberto De Vitto, Paolo Cazzaniga, Francesca Ricciardiello, Giancarlo Mauri, Lilia Alberghina, Ferdinando Chiaradonna, Daniela Besozzi.  
+	Fuzzy modeling and global optimization to predict novel therapeutic targets in cancer cells.  
 	Bioinformatics, Volume 36, Issue 7, 1 April 2020, Pages 2181–2188.
 	[https://doi.org/10.1093/bioinformatics/btz868](https://doi.org/10.1093/bioinformatics/btz868)
 
 ## Analyses
 - Multi-objective optimization of drug target combinations
-	- Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.
-	Screening for combination cancer therapieswith dynamic fuzzy modeling andmulti-objective optimization.
+	- Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.  
+	Screening for combination cancer therapieswith dynamic fuzzy modeling andmulti-objective optimization.  
 	(under review)
 
 ## Model implementation
