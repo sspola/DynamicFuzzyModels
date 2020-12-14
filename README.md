@@ -16,7 +16,7 @@ If you find these models useful for your research, please cite our work as follo
 	Bioinformatics, Volume 36, Issue 7, 1 April 2020, Pages 2181–2188.
 	[https://doi.org/10.1093/bioinformatics/btz868](https://doi.org/10.1093/bioinformatics/btz868)
 	- Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.  
-	Screening for combination cancer therapieswith dynamic fuzzy modeling andmulti-objective optimization.  
+	Screening for combination cancer therapieswith dynamic fuzzy modeling and multi-objective optimization.  
 	(under review)
 
 ## Analyses
