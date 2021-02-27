@@ -20,7 +20,7 @@ If you find these models useful for your research, please cite our work as follo
 	(under review)
 
 ## Analyses
-- Multi-objective optimization of drug target combinations
+- Multi-objective optimization of drug target combinations (a step-by-step guide on how to run the analysis is available [here](https://docs.google.com/document/d/16tNbj1e56ahv5-KwozeMjwiQrShCRcFrszf3mXmU00M/edit?usp=sharing))
 	- Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.  
 	Screening for combination cancer therapies with dynamic fuzzy modeling and multi-objective optimization.  
 	(under review)
