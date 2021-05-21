@@ -2,7 +2,7 @@
 # Analysis published in:
 # Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.
 # Screening for combination cancer therapieswith dynamic fuzzy modeling andmulti-objective optimization.
-# (under review)
+# Frontiers in Genetics, 2021, 12: 449.
 #########################################################################################################
 
 from simpful import *
