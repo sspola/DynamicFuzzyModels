@@ -25,7 +25,7 @@ If you find these models useful for your research, please cite our work as follo
 	Screening for combination cancer therapies with dynamic fuzzy modeling and multi-objective optimization.  
 	Frontiers in Genetics, 2021, 12: 449.
 	[https://doi.org/10.3389/fgene.2021.617935](https://doi.org/10.3389/fgene.2021.617935)
-	- Simone Spolaor, Daniele M. Papetti, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.
+	- Simone Spolaor, Daniele M. Papetti, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.  
 	Identification of Pareto-optimal drug target combinations in cancer cell models.
 	(under review)
 
