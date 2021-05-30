@@ -1,10 +1,9 @@
 #########################################################################################################
 # Model originally published in:
-# Marco S Nobile, Giuseppina Votta, Roberta Palorini, Simone Spolaor, Humberto De Vitto, Paolo Cazzaniga,
+# Marco S. Nobile, Giuseppina Votta, Roberta Palorini, Simone Spolaor, Humberto De Vitto, Paolo Cazzaniga,
 # Francesca Ricciardiello, Giancarlo Mauri, Lilia Alberghina, Ferdinando Chiaradonna, Daniela Besozzi.
 # Fuzzy modeling and global optimization to predict novel therapeutic targets in cancer cells.
-# Bioinformatics, Volume 36, Issue 7, 1 April 2020, Pages 2181–2188.
-# https://doi.org/10.1093/bioinformatics/btz868
+# Bioinformatics, 2020, 36.7: 2181–2188.
 #########################################################################################################
 # Python version, defined by means of the Simpful library, published in:
 # Simone Spolaor, Martijn Scheve, Murat Firat, Paolo Cazzaniga, Daniela Besozzi, Marco S. Nobile.
